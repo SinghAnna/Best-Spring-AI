@@ -326,4 +326,3 @@ Main `docs/01-introduction.md` + `code/01-hello-ai/` complete bana dunga — the
 
 Spring AI ka core — **ChatClient (unified LLM API) + RAG (QuestionAnswerAdvisor + VectorStore) + Tool Calling (@Tool/MCP) + Advisors (middleware) + Observability (Micrometer/OTel)** — production patterns (circuit breaker, token budget, PII scrubbing, evaluation) ke saath. [2152][2154][2157][2163]
 
-**Agla step:** bolo **“Spring AI Part 1 start karo”** — main `docs/01-introduction.md` + `code/01-hello-ai/` complete bana dunga: theory + full runnable code + setup + first LLM call + production-ready structure.
